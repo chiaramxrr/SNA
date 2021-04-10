@@ -1,0 +1,11 @@
+from,to,weight
+CM,UM,3
+CM,JE,3
+CM,CU,3
+CM,LC,3
+UM,JE,2
+UM,CU,1
+UM,LC,1
+JE,CU,2
+JE,LC,1
+CU,LC,3
