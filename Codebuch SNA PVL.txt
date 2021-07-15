@@ -1,0 +1,65 @@
+---
+title: "SNA Prüfungsleistung Code"
+author: "Chiara Maier"
+date: "7/15/2021"
+output: html_document
+---
+
+
+##Codebuch
+
+#Edgelist 
+
+*from*
+definiert den Sender im Netzwerk und entspricht ID in der Nodelist
+
+*to*
+definiert den Empfänger im Netzwerk. Entspricht ID in der Nodelist. 
+
+*relation*
+1= ehemaliger Verein
+2= Heimatland 
+
+#Nodelist
+
+*id*
+eindeutige Identifikation jedes einzelnen Knotens
+
+*name*
+Name oder Bezeichnung des Knotens
+
+*type*
+Art des Knotens 
+0=Spielerin
+1=Land oder Verein
+
+*birth*
+Geburtsjahr der Spielerin
+
+*age* 
+Aktuelles Alter der Spielerinnen
+1=1991-1994
+2=1995-1999
+3=2000-2004
+
+*position*
+Position auf dem Spielfeld 
+1=Mittelblock
+2=Zuspiel
+3=Außenangriff
+4=Diagonale
+5=Libera 
+
+*country*
+Land der Herkunft
+1=Niederlande
+2=Bulgarien
+3=Deutschland
+4=Spanien
+5=Finnland
+6=Polen 
+7=Belgien
+8=USA
+
+
+
