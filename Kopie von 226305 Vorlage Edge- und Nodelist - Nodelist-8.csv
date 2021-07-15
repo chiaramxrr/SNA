@@ -1,0 +1,75 @@
+id,name,type,birth,age,position,country
+JH,Juliet Lohuis,0,1996,2,1,1
+MT,Mira Todorova,0,1994,1,1,2
+ET,Eline Timmermann,0,1998,2,1,1
+HK,Hannah Kohn,0,2003,3,2,3
+IVDV,Ilka Van der Vyver,0,1993,1,2,7
+JN,Julia Nowicka,0,1998,2,2,6
+SL,Simone Lee,0,1996,2,3,8
+MSP,Maria Segura Palleres,0,1992,1,3,4
+HJ,Hester Jasper,0,2001,3,3,1
+HD,Helena Dornheim,0,2004,3,3,3
+KR,Krystal Rivers,0,1994,1,4,8
+LB,Lara Berger,0,2001,3,4,3
+RK,Roosa Koskelo,0,1991,1,5,5
+LG,Lena Grundt,0,2004,3,5,3
+MTVSJ,MTV Stuttgart Jugend,1,,,,
+K,Kimmo,1,,,,
+SP,Someron Pallo,1,,,,
+HL,Hameenlinnan Lentopallokerho,1,,,,
+LP,LP Kangasala,1,,,,
+NB,OK Nova KBM Branik,1,,,,
+LPV,LP Viesti,1,,,,
+LBM,Luka Bar MNE,1,,,,
+VCOB,VCO Berlin,1,,,,
+TM,FV Tubinger Modell,1,,,,
+BA,Beziers Angels,1,,,,
+UA,University of Alabama,1,,,,
+SU,Set Up 65,1,,,,
+EA,Eurosped Almelo,1,,,,
+TTP,Talent Team Papendal,1,,,,
+CA,Coolen Alterno,1,,,,
+RCC,RC Cannes,1,,,,
+UM,USC Munster,1,,,,
+VLC,Volero Le Cannet,1,,,,
+VZ,Volero Zurich,1,,,,
+SP,SmAesch Pfeffingen,1,,,,
+LCVB,Le Cannet Volley Ball,1,,,,
+VCM,VC Maritza,1,,,,
+AA,Alterno Apeldoorn,1,,,,
+EST,Eurosped Twente,1,,,,
+LBA,Ladies in Black Aachen,1,,,,
+U,VfB Ulm,1,,,,
+OS,Olympiastutzpunkt Stuttgart,1,,,,
+AK,Asterix Kieldrecht,1,,,,
+BS,Bundesstutzpunkt Stuttgart,1,,,,
+BF,Il Bisonte Firenze,1,,,,
+CL,Calcit Ljubljana,1,,,,
+RRV,Rote Raben Vilsbiburg,1,,,,
+MTVS,MTV Stuttgart II,1,,,,
+SLT,VfB Suhl Lotto Thuringen,1,,,,
+VCS,VC Sneek,1,,,,
+CVB,CV Barcelona,1,,,,
+DIT,Delta Informatica Trentino,1,,,,
+GHO,Geovillage Hermaea Olbia,1,,,,
+STM,Saugella Team Monza,1,,,,
+BSBC,Bosca San Bernardo Cuneo,1,,,,
+DSC,Dresdner SC 1898,1,,,,
+CSMT,CSM Targoviste,1,,,,
+PCBB,BKS Profi Credit Bielsko Biala,1,,,,
+GBL,Grot Budowlani Lodz,1,,,,
+PB,KS Palac Bydgoszcz U20,1,,,,
+BVMB,Banca Valsabbina Millenium Brescia,1,,,,
+SPS,SMS PZPS Szczyrk,1,,,,
+PSU,Penn State University,1,,,,
+KAF,Kurobe AquaFairies,1,,,,
+B,Beylikduzu,1,,,,
+IVC,Imoco Volley Conegliano,1,,,,
+NL,Niederlande,1,,,,
+BE,Belgien,1,,,,
+BU,Bulgarien,1,,,,
+D,Deutschland,1,,,,
+S,Spanien,1,,,,
+USA,USA,1,,,,
+F,Finnland,1,,,,
+P,Polen,1,,,,
